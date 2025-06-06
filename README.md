@@ -23,4 +23,11 @@
 hshahsjdkds
 z0siak._
 
+### 🌺 Status 
+
+<p align="center">
+  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/1370545261713162420)](https://discord.com/users/1370545261713162420)" alt="Discord Status" />
+</p>
+
+
 
