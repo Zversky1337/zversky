@@ -1,4 +1,4 @@
-<h1 align="center">[Zversky1337]</h1>
+<h1 align="center">Zversky1337 (Alimenciarz) </h1>
 <p align="center">
 </p>
 
@@ -14,13 +14,13 @@
 
 ### 📊 Statystyki GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TwojaNazwaGitHub&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwojaNazwaGitHub&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zversky1337&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zversky1337&layout=compact&theme=radical" />
 </p>
 
-### 💐 Discord
+### 💐 Dc
 
-invkolkq
+wizqacja
 
 
 
